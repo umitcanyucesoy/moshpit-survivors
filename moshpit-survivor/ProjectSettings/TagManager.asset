@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Fly
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Enemy
+  - Background
+  - Player
+  - Obstacles
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2857688941
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Enemies
+    uniqueID: 2372649951
+    locked: 0
+  - name: Pickups
+    uniqueID: 151887521
+    locked: 0
+  - name: Weapons
+    uniqueID: 351048753
+    locked: 0
+  - name: Obstacles
+    uniqueID: 1196959475
+    locked: 0
+  - name: Player
+    uniqueID: 3008626011
+    locked: 0
+  - name: UI
+    uniqueID: 1812192465
+    locked: 0
