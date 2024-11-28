@@ -1,5 +1,5 @@
 # moshpit-survivors
-2D Roguelike Vampire Survivers Game
+2D Roguelike Vampire Survivors Game
 
 
 It is a 2D based game that I developed in the vampire survivors style. I optimized it quite a bit by writing it with VContainer from the Dependency Injection packages. It was a sweet game full of content. You can visit https://umitcanyucesoy.itch.io/ to download.
